@@ -16,6 +16,7 @@
 		DD5F8EE725DCE9CE00B51297 /* Habit_TrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5F8EE625DCE9CE00B51297 /* Habit_TrackerTests.swift */; };
 		DD5F8EF225DCE9CE00B51297 /* Habit_TrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5F8EF125DCE9CE00B51297 /* Habit_TrackerUITests.swift */; };
 		DD5FC4EA25DF7B7E005285E7 /* DailyTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5FC4E925DF7B7E005285E7 /* DailyTask.swift */; };
+		DD5FC4EC25DF8492005285E7 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD5FC4EB25DF8492005285E7 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		DD5F8EF125DCE9CE00B51297 /* Habit_TrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Habit_TrackerUITests.swift; sourceTree = "<group>"; };
 		DD5F8EF325DCE9CE00B51297 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DD5FC4E925DF7B7E005285E7 /* DailyTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyTask.swift; sourceTree = "<group>"; };
+		DD5FC4EB25DF8492005285E7 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				DD5F8ED125DCE9CB00B51297 /* SceneDelegate.swift */,
 				DD5FC4E925DF7B7E005285E7 /* DailyTask.swift */,
 				DD5F8ED325DCE9CB00B51297 /* TaskView.swift */,
+				DD5FC4EB25DF8492005285E7 /* CardView.swift */,
 				DD5F8ED525DCE9CE00B51297 /* Assets.xcassets */,
 				DD5F8EDA25DCE9CE00B51297 /* LaunchScreen.storyboard */,
 				DD5F8EDD25DCE9CE00B51297 /* Info.plist */,
@@ -274,6 +277,7 @@
 				DD5F8ED025DCE9CB00B51297 /* AppDelegate.swift in Sources */,
 				DD5F8ED225DCE9CB00B51297 /* SceneDelegate.swift in Sources */,
 				DD5F8ED425DCE9CB00B51297 /* TaskView.swift in Sources */,
+				DD5FC4EC25DF8492005285E7 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
